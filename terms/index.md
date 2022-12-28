@@ -1,8 +1,3 @@
----
-title: Terms of Service
-description: All the terms that you agree to when you sign up for a RockEngineering product.
----
-
 # Terms of Service
 
 _Last updated: Dec 25, 2022_
